@@ -1,0 +1,34 @@
+user:
+  name: YUUKO YUUKO
+  first_name: yuuko
+  last_name: yuuko
+  email: yuukoyuuko920@gmail.com
+  domain: https://yuukoyuuko.live
+  avatar: https://s1.aigei.com/prevfiles/e9d4098dbdab438b9b141912d36f4034.png?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:GUbfAAUjqiq5e_V53W7n2hhx86I=
+  describe: A website for sharing knowledge and technology.
+  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+
+favicon:
+  logo: /img/大促魔剑-copy-copy.png
+  icon16: /img/大促魔剑-copy-copy.png
+  icon32: /img/大促魔剑-copy-copy.png
+
+theme:
+  switch: true
+  default: style-dark
+
+sidebar:
+  info: # 个人信息
+    - key: 地址
+      val: 音羽
+    - key: 年龄
+      val: 未知
+    - key: 实力
+      val: 萌新
+
+banner:
+  index:
+    type: img
+    bgurl: /img/124252822_p0.png
+    banner_title: 南风知我意，<br>吹梦到西洲。
+    banner_text: Hi my new friend!

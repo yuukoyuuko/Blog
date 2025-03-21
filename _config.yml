@@ -1,8 +1,8 @@
 title: yuuko's blog
-subtitle: ''
-description: ''
+subtitle: My Dear Moments
+description: My Dear Moments
 keywords: null
-author: John Doe
+author: Asphodelus
 language: en
 timezone: ''
 url: http://example.com
@@ -58,7 +58,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: nexmoe
+theme: async
 deploy:
   type: git
   repo: https://github.com/yuukoyuuko/yuukoyuuko.github.io.git
