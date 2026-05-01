@@ -61,5 +61,6 @@ ignore: null
 theme: async
 deploy:
   type: git
-  repo: https://github.com/yuukoyuuko/yuukoyuuko.github.io.git
-  branch: master
+  repo:
+    github: https://github.com/yuukoyuuko/yuukoyuuko.github.io.git,master
+    vps: root@178.128.68.15:/var/repo/blog.git,master
