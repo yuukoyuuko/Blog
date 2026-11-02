@@ -63,4 +63,4 @@ deploy:
   type: git
   repo:
     github: https://github.com/yuukoyuuko/yuukoyuuko.github.io.git,master
-    vps: root@178.128.68.15:/var/repo/blog.git,master
+    vps: azureuser@20.78.128.66:/var/repo/blog.git,master
